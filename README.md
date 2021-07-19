@@ -14,8 +14,8 @@
 
 
 ## Organisations:
-[![Samsung](.)]()
-[![Tokopedia](.)]()
+[![Samsung](.)()
+[![Tokopedia](.)()
 ---
 
 
