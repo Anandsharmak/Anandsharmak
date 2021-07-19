@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hi there, I'm Bardia - aka Bardiesel <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm Anand - aka Freez <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
@@ -16,28 +14,9 @@
 
 
 ## Organisations:
-[![Samsung](https://www.logotaglines.com/wp-content/uploads/2017/08/samsung-Logo.jpg)]()
-
+[![Samsung](.)]()
+[![Tokopedia](.)]()
 ---
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
-
----
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    160 commits    ██████████░░░░░░░░░░░░░░░   40.51% 
-🌆 Daytime    152 commits    █████████░░░░░░░░░░░░░░░░   38.48% 
-🌃 Evening    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
-🌙 Night      81 commits     █████░░░░░░░░░░░░░░░░░░░░   20.51%
-
-```
 
 
 📊 **This Week I Spent My Time On** 
@@ -62,6 +41,6 @@ Last Updated on 19/07/2021
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
 [![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
-[![ElasticSearch](https://avatars.githubusercontent.com/u/6764390?s=200&v=4)]()
+[![ElasticSearch]()]()
 
 <img src="https://imgur.com/rilHVxA.png"/> 
