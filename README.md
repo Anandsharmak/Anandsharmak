@@ -14,8 +14,12 @@
 
 
 ## Organisations:
-[![Samsung](https://media-exp1.licdn.com/dms/image/C560BAQHlLsokW0BMqw/company-logo_200_200/0/1660813210611?e=1669852800&v=beta&t=aV6b61nc0G_L8HRckBo2vhhAzx8H_45Lkc0ijojvI8g)](https://www.linkedin.com/company/samsung-electronics?originalSubdomain=in)
+[![Agoda](https://media-exp1.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_200_200/0/1656643826125?e=1669852800&v=beta&t=PVC0LCoGFIk7o-PQYDhfA21XKfzWQ5v7-oXyK0An8OU)](https://www.linkedin.com/company/agoda/mycompany/)
+
 [![Tokopedia](https://media-exp1.licdn.com/dms/image/C560BAQFMBlhfxZjCFg/company-logo_200_200/0/1615804646493?e=1669852800&v=beta&t=0Ovb6pVzBfxeuAeHL0CJG4pFWrgwgYkD_9cvnkgX9HU)](https://www.linkedin.com/company/pt--tokopedia/)
+
+[![Samsung](https://media-exp1.licdn.com/dms/image/C560BAQHlLsokW0BMqw/company-logo_200_200/0/1660813210611?e=1669852800&v=beta&t=aV6b61nc0G_L8HRckBo2vhhAzx8H_45Lkc0ijojvI8g)](https://www.linkedin.com/company/samsung-electronics?originalSubdomain=in)
+
 ---
 
 ## DS ALGO practice:
