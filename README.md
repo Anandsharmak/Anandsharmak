@@ -19,7 +19,7 @@
 ---
 
 ## DS ALGO practice:
-[![Anand's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=anand26041997)](<YOUR_LINK_HERE>)
+[![Anand's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=anand26041997)](https://auth.geeksforgeeks.org/user/anand26041997)
 
 📊 **This Week I Spent My Time On** 
 
