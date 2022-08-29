@@ -18,6 +18,8 @@
 [![Tokopedia](.)()
 ---
 
+## DS ALGO practice:
+[![Anand's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=anand26041997)](<YOUR_LINK_HERE>)
 
 📊 **This Week I Spent My Time On** 
 
