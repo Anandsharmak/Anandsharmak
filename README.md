@@ -26,6 +26,7 @@
 
 ## DS ALGO practice:
 [![Anand's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=anand26041997)](https://auth.geeksforgeeks.org/user/anand26041997)
+[![Anand's geeksForgeeks stats](https://anandsharmak.github.io/HackerEarthGithubProfile/frontend.html)](https://www.hackerearth.com/@anand2604)
 
 📊 **This Week I Spent My Time On** 
 
